@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.1](https://github.com/extra2000/xorg-formula/compare/v1.0.0...v1.0.1) (2021-04-11)
+
+
+### Documentations
+
+* **README:** Remove Fossa badge ([95049bf](https://github.com/extra2000/xorg-formula/commit/95049bf12fb13ef963693da02e9606ae61e702fc))
+
 ## 1.0.0 (2021-04-11)
 
 
