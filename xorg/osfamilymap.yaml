@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+# vim: ft=yaml
+
+RedHat:
+  packages:
+    - xorg-x11-server-Xorg
+    - xorg-x11-xauth
+    - xorg-x11-apps
+    - libXtst
+
+Debian: {}
+Suse: {}
+Gentoo: {}
+Arch: {}
+Alpine: {}
