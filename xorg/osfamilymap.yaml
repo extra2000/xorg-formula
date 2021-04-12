@@ -8,7 +8,12 @@ RedHat:
     - libXrender
     - libXtst
 
-Debian: {}
+Debian:
+  packages:
+    - xorg
+    - xserver-xorg
+    - xauth
+
 Suse: {}
 Gentoo: {}
 Arch: {}
