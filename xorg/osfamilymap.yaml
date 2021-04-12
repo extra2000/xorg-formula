@@ -5,6 +5,7 @@ RedHat:
   packages:
     - xorg-x11-server-Xorg
     - xorg-x11-xauth
+    - libXrender
     - libXtst
 
 Debian: {}
