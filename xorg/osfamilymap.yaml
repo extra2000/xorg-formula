@@ -14,7 +14,13 @@ Debian:
     - xserver-xorg
     - xauth
 
-Suse: {}
+Suse:
+  packages:
+    - xorg-x11-server
+    - xorg-x11
+    - libXtst6
+    - libXi6
+
 Gentoo: {}
 Arch: {}
 Alpine: {}
